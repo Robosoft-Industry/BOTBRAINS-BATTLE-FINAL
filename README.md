@@ -1,5 +1,6 @@
 # BOTBRAINS-BATTLE-FINAL
-Submission Files
+Submission Files by Sarthak Varchasvi
+sarthakvarchasvi@gmail.com
 
-Answer-1 Contains answer for Questions 2-a,b and c
-All other files are for Question 2-d
+Answer-A,B,C Contains answer for Questions A, B, C
+Answer-D Contains answer for Question D
